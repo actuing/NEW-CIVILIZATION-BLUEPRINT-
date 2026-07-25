@@ -139,6 +139,19 @@ What began as a professional inquiry into efficiency has evolved into a global s
 
 ---
 
+
+
+
+The Dilemma of Grounding
+
+The formal mathematical foundation for the ST-T1024 architecture can be found in The Dilemma of Grounding, a systemic diagnostic manual for the Architect of the Shift. It provides the equations — TD, κ, m_e, P, SNR, D_m, Z_off — that describe the mechanics of collapse and the protocol for escape. This is not academic theory. It is the control theory applied to civilization. The standard and the manual are two sides of the same coin: one for silicon, one for soul.
+
+
+
+
+
+---
+
 ## License
 
 **Apache-2.0 — Free for all. Forever.**
